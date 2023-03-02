@@ -5,3 +5,5 @@
   <a href="https://docs.google.com/document/d/15Rdz7IGTFSxe1FPocv8GHkmkAh-g9mG1OiBHwY11a5o/edit?usp=sharing">My Resume</a> 
 
 </div>
+![](https://raw.githubusercontent.com/imstupidpleasehelp/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/imstupidpleasehelp/github-stats/master/generated/overview.svg#gh-light-mode-only)
