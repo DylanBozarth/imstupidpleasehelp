@@ -4,6 +4,6 @@
 <div>
   <h3>Dylan Bozarth </h3>
   <p>Self taught JavaScript/TypeScript developer</p>
-   
+   <p>Currently learning Dart and flutter </p>
 
 </div>
